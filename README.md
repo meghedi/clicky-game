@@ -1,6 +1,6 @@
 ## Clicky Game
 
-https://meghedi.github.io/clickyGame/
+https://meghedi.github.io/clicky-game/
 
 This Project is with React, using "npx create-react-app clickygame"
 
